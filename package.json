@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/uuid": "^9.0.1"
+  }
+}
